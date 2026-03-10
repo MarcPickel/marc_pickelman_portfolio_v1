@@ -6,7 +6,15 @@ function App() {
 
   return (
     <div className="page">
-      <div className="page__content"></div>
+      <div className="page__content">
+        {/*<Header />*/}
+        {/*<Main />*/}
+        {/*<About />*/}
+        {/*<MidwestPage />*/}
+        {/*<LiteraturePage />*/}
+        {/*<LinguisticsPage />*/}
+        {/*<Footer />*/}
+      </div>
     </div>
   )
 }
